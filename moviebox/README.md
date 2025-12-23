@@ -1,8 +1,8 @@
-# FULLSTACK MOVIEBOX WEBSITE - CLONE PROJECT
+# FULLSTACK MOVIEBOX WEBSITE - EDUCATIONAL CLONE PROJECT
 
 ## Purpose of the Project
 
-*This project was developed as a clone for educational purposes and is not connected to any official or external URL.*
+*This project is a educational clone created for learning and demonstration of academical purposes and is not linked to any production or official service.*
 
 The purpose of the system is to create a social network for the user to have general information about movies.The system allows the user to browse the movies, have information about the movies, and add the movies they want to watch later to their watchlist.User can create a favorites list from movies.The user can search for movies by category, or they can directly search for any movie they want.In order for the system to benefit from these features, the user must sign in. If he does not have an account, the user can create an account. 
 
